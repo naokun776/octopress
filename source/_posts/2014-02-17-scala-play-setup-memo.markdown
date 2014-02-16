@@ -8,6 +8,8 @@ categories:
 
 ## ScalaとPlayFrameworkをMacで使用できるようにするためのメモ。
 
+<!-- more -->
+
   1. JDKをダウンロード&インストールする。
   
      - [Oracle](http://www.oracle.com/)のDownloads > Java for Developers

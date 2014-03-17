@@ -6,8 +6,6 @@ comments: true
 categories: "勉強会"
 ---
 
-# JJUGナイトセミナに参加してみたメモ
-
 [【東京】JJUG ナイトセミナ 「2.19 Eclipse、NetBeans、IntelliJ IDEA 3大IDE頂上決戦 」](http://jjug.doorkeeper.jp/events/8848)に参加しました。そのメモ。
 
 <!-- more -->

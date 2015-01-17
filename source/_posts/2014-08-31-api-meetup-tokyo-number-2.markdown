@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "API Meetup Tokyo #2"
+title: "API Meetup Tokyo #2に参加してきました"
 date: 2014-08-31 22:00:00 +0900
 comments: true
 categories: "勉強会"
